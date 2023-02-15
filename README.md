@@ -1,1 +1,1 @@
-# YVR_Energy_Forecasting
+Forecasted the energy use for Vancouver Airport by leveraging R programming tools such as timer series, box cox transformations, STL decomposition, ETS Models, and ARIMA Models. This project was conducted in collaboration with another team-member: Abhijit Agrawal.
